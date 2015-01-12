@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2014-12-18T11:31:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-08T12:43:09.484918+00:00", 
+  "modified_at": "2015-01-12T20:14:39.498261+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 14, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month8_Spa_Co_pregnancy", 
   "uuid": "66585420228c4e1e822850f1a35a0ef3"
